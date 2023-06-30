@@ -20,5 +20,6 @@ The project utilizes the following technologies:
 - Java
 - Spring Boot
 - Spring Data JPA
+- GraphQL
 - PostgresSQL
 
